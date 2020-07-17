@@ -49,7 +49,7 @@
         "forever": "^1.0.0",
         "http-status-codes": "^1.3.2",
         "jsonschema": "^1.2.4",
-        "lodash": "^4.17.11",
+        "lodash": "^4.17.19",
         "reflect-metadata": "^0.1.13",
         "sqlite3": "^4.0.8",
         "typeorm": "0.2.17"
